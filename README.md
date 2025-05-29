@@ -3,7 +3,7 @@
 ## Why make this? 
 I really dislike opening a different tab for some task I need to change in an Active Directory Machine (especially in Server 19). 
 
-
+## Goals
 This project will: 
 - LDAP Bind to the AD Machine 
 - List all of the users 
